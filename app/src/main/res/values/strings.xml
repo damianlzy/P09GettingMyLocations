@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">P09GettingMyLocations</string>
+    <string name="tv1">Last known location when this activity started</string>
+</resources>
